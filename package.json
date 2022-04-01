@@ -1,0 +1,33 @@
+{
+  "name": "@stdlib/math-base-special-ceil",
+  "version": "0.0.0",
+  "description": "Round a double-precision floating-point number toward positive infinity.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/math-base-special-ceil.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "mathematics",
+    "math",
+    "math.ceil",
+    "ceil",
+    "round",
+    "integer",
+    "nearest",
+    "value",
+    "number"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
