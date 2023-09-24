@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import ceil from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-ceil@deno/mod.js';
+import ceil from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-ceil@v0.1.0-deno/mod.js';
 ```
 
 #### ceil( x )
@@ -75,7 +75,7 @@ v = ceil( NaN );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import ceil from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-ceil@deno/mod.js';
+import ceil from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-ceil@v0.1.0-deno/mod.js';
 
 var x;
 var i;
