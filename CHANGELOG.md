@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-03-06)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`f838879`](https://github.com/stdlib-js/stdlib/commit/f83887976cd26ae9bc431233a46777b281bf91e8) - **bench:** use string interpolation in `math/base/special/ceil` [(#10735)](https://github.com/stdlib-js/stdlib/pull/10735) _(by travisBREAKS)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   travisBREAKS
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.3">
 
 ## 0.2.3 (2026-02-04)
